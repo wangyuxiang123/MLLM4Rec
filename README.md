@@ -2,7 +2,7 @@
 The source code for our **Journal of Intelligent Information Systems(2024)** Paper [[MLLM4Rec](https://doi.org/10.1007/s10844-024-00915-3)]
 
 
-<img src=media/MLLMRec.png width=1000>
+<img src=media/MLLM4Rec.jpg width=1000>
 
 
 
