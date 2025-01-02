@@ -103,3 +103,12 @@ If you find this repo useful, please cite
 
 ## Also thanks
 The code is implemented based on [LlamaRec](https://github.com/yueeeeeeee/llamarec?tab=readme-ov-file)
+
+## Baseline model
+- [RecFormer](https://github.com/AaronHeee/RecFormer)
+- [ECL](https://github.com/Tokkiu/ECL)
+- [DIF-SR](https://github.com/AIM-SE/DIF-SR)
+- [STOSA](https://github.com/zfan20/stosa)
+- [LlamaRec](https://github.com/Yueeeeeeee/LlamaRec)
+- [OpenP5](https://github.com/agiresearch/OpenP5)
+- [MMSRec](https://github.com/kz-song/mmsrec)
