@@ -171,6 +171,8 @@ parser.add_argument('--lora_lr', type=float, default=1e-4)
 parser.add_argument('--lora_micro_batch_size', type=int, default=16)
 
 ################
-
+# blip2
+parser.add_argument('--model_path', type=str, default=None)
+################
 
 args = parser.parse_args()

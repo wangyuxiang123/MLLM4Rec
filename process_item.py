@@ -11,8 +11,6 @@ from tqdm import tqdm
 from datasets import dataset_factory
 
 torch.manual_seed(42)
-parser = argparse.ArgumentParser()
-args = parser.parse_args()
 np.set_printoptions(suppress=True)
 
 

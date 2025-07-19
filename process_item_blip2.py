@@ -11,8 +11,6 @@ from transformers import Blip2Processor, Blip2ForConditionalGeneration
 from datasets import dataset_factory, utils
 
 torch.manual_seed(42)
-parser = argparse.ArgumentParser()
-args = parser.parse_args()
 np.set_printoptions(suppress=True)
 
 
